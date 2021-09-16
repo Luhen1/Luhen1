@@ -12,6 +12,7 @@
 
   
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,7 +62,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-👔 .[linkedin].[linkedin] **|**
+👔 .[linkedin] **|**
 [![GitHub Luhen1]( https://img.shields.io/github/followers/Luhen1?label=follow&style=social)](https://github.com/Luhen1) **|**
-📫 .[maill] lucashbsj@outlook.com
+📫 lucashbsj@outlook.com
 
