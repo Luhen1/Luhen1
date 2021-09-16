@@ -2,6 +2,7 @@
 
 <h3> 👨: &nbsp;Sobre mim </h3>
 
+- 💻 &nbsp; Desenvolvedor Fullstack
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Ciências da Computação.
 - 🌱 &nbsp; Aprendendo mais sobre React.
