@@ -54,6 +54,6 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Lucas Da Silva](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-da-silva-6ba464121/)](https://www.linkedin.com/in/lucas-da-silva-6ba464121/)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:lucashbsj@outlook.com)](mailto:lucashbsj@outlook.com)
-[![GitHub Luhen1]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Luhen1)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]lucashbsj@outlook.com
+[![GitHub Luhen1]( https://img.shields.io/github/followers/Luhen1?label=follow&style=social)](https://github.com/Luhen1)
 
