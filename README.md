@@ -60,7 +60,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-📸
+📸.[instagram] **|**
 👔 [linkedin] **|**
 [![GitHub Luhen1]( https://img.shields.io/github/followers/Luhen1?label=follow&style=social)](https://github.com/Luhen1) **|**
 📫 lucashbsj@outlook.com
