@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Luhen1&color=006bed)
-
 <h3> 👨: &nbsp;Sobre mim </h3>
 
 - 💻 &nbsp; Desenvolvedor Fullstack
