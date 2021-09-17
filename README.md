@@ -62,6 +62,5 @@
 
 📸.[instagram] **|**
 👔 [linkedin] **|**
-[![GitHub Luhen1]( https://img.shields.io/github/followers/Luhen1?label=follow&style=social)](https://github.com/Luhen1) **|**
 📫 lucashbsj@outlook.com
 
