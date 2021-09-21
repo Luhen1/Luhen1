@@ -56,11 +56,14 @@
 <br/>
 
 [instagram]: https://www.instagram.com/lucas.henrii/
+[twitter]: https://twitter.com/LuhenDev
 [linkedin]: https://www.linkedin.com/in/lucas-da-silva-6ba464121
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 📸.[instagram] **|**
 👔 [linkedin] **|**
-📫 lucashbsj@outlook.com
+📫 lucashbsj@outlook.com **|**
+🐦 [twitter] 
+ 
 
