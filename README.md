@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Estudando Ciências da Computação.
 - 🌱 &nbsp; Aprendendo mais sobre React.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Meu Habilidades </h3>
 
 **Aplicações e Dados**
 
