@@ -1,13 +1,12 @@
-<h3> Olá! Sou o Lucas Henrique! 👋 </h3>
+<h3> Hey! I´m Lucas Henrique! 👋 </h3>
 
-- 💻 &nbsp; Desenvolvedor Fullstack
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Ciências da Computação.
-- 🌱 &nbsp; Aprendendo mais sobre React e NestJs.
+- 💻 &nbsp; Fullstack Developer.
+- 🤔 &nbsp; Exploring new technologies.
+- 🌱 &nbsp; Learning Java and Spring boot.
 
-<h3> :rocket: &nbsp;Minha Habilidades </h3>
+<h3> :rocket: &nbsp;My skills </h3>
 
-**Aplicações e Dados**
+**Data Application and Software Development **
 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -18,7 +17,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![NestJS](https://img.shields.io/badge/-NESTJS-333333?style=flat@logo=nestjs)
 
-**Utilidades**
+**Utilities**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -29,7 +28,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de Desenvolvimento**
+**Development tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -37,7 +36,7 @@
 
 <br/>
 
-## **Github Estatísticas**
+## **Github Stats**
 <a href="https://github.com/Luhen1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luhen1&theme=dracula&hide_langs_below=1" />
 </a>
@@ -51,11 +50,10 @@
 [twitter]: https://twitter.com/LuhenDev
 [linkedin]: https://www.linkedin.com/in/lucas-da-silva-6ba464121
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Contact me: </h3> 
 
 📸.[instagram] **|**
 👔 [linkedin] **|**
 📫 lucashbsj@outlook.com **|**
-🐦 [twitter] 
  
 
