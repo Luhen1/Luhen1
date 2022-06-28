@@ -2,7 +2,7 @@
 
 - 💻 &nbsp; Fullstack Developer.
 - 🤔 &nbsp; Exploring new technologies.
-- 🌱 &nbsp; Learning Java and Spring boot.
+- 🌱 &nbsp; Learning Typescript and NEXTJS.
 
 <h3> :rocket: &nbsp;My skills </h3>
 
