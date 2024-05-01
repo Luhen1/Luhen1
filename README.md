@@ -46,7 +46,7 @@
 
 <br/>
 
-[instagram]: https://www.instagram.com/lucas.henrii/
+[instagram]: https://www.instagram.com/lucas97x/
 [twitter]: https://twitter.com/LuhenDev
 [linkedin]: https://www.linkedin.com/in/lucas-da-silva-6ba464121
 
